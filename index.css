@@ -99,7 +99,8 @@ p{
 .bio img{
   max-height: 500px;
   margin: auto;
-  max-width: 600px;
+  max-width: 100%;
+
 }
 .sub-bio{
   display: block;
@@ -111,6 +112,17 @@ p{
   padding-right: 10px;
   padding:auto;
 
+}
+.text{
+  width:90%;
+  margin:auto;
+  padding:5px;
+  text-align: center;
+  justify-content: center;
+}
+.pricing{
+  color:green;
+  margin-bottom: 10px;
 }
 .review-container{
   height:auto;
